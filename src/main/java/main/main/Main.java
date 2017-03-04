@@ -1,8 +1,5 @@
 package main.main;
-/*
- このプラグインは、gigantessbeta及び、
- PMpluginMaker-Teamによって作成されたものです。
- */
+
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
